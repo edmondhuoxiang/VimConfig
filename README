@@ -1,2 +1,0 @@
-Create Symlinks:
-	ln -s ~/dotfiles/vimrc ~/.vimrc
