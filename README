@@ -1,2 +1,4 @@
+Backup for Vim Configuration on Mac
+
 Create Symlinks:
 	ln -s ~/dotfiles/vimrc ~/.vimrc
